@@ -129,7 +129,7 @@ For 3) we will make up a ratio of volume of annual trade divided by shares outst
 
 <p> Based on the new values we can plot trade turnover against profit/loss from the strategy:</p>
 <H4 mb={5}> Plotting log(trade_turnover) to log(profit)</H4>
-<img src="imgs/turnover_pl.png" >
+<img src="imgs/pl_turnover.png" >
 
 <H4>V.Conclusion</H4>
 <p>The question this project aimed to answer was:  <b><i>Does the average US executive benefit from trading their own company stock, and if so, under what condition?</i></b>
