@@ -3,7 +3,7 @@ from __future__ import (absolute_import, division, print_function,
 import os
 import os.path
 from pandas.core.arrays.categorical import Categorical
-from insider_methods import *
+from methods import *
 import pandas as pd
 import backtrader as bt
 import itertools
